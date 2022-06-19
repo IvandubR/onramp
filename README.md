@@ -3,4 +3,4 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 
 ## Freshman Year
 # Media
-** Silicon Valley
+*Silicon Valley
