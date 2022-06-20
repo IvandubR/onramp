@@ -17,6 +17,8 @@ Silicon Valley
 * Web 3 Guide - rabbithole.gg/
 * Crypto Security - medium.com/qi-capital/a-basic-crypto-security-guide-9f0552f69a2d
 * Tokenomics - tokens-economy.com/
+* DAO's - 1729.com/daos
+* DeFi Risk Assessment - tokenbrice.xyz/money-markets-risk/
 
 ## Programming 
 FreeCodeCamp - freecodecamp.org/
@@ -25,3 +27,13 @@ Learn to code and compile - buildspace.so/solidity
 ## Open Source Your Life
 * GSUITE alternatives - https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html
 * Clone Hero Archive - docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0
+
+## Research
+Alpha Archives - thealpharchives.com/
+Delphi Research- members.delphidigital.io/
+Tech Deep Dives CMC - coinmarketcap.com/alexandria/categories/tech-deep-dives
+
+Practice 
+Join a DAO - snapshot.org/#/
+Create a Coin - mintme.com/coin/
+Track on-chain activity - https://dune.com/home
