@@ -11,7 +11,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Concensus Wiki - https://tokens-economy.gitbook.io/consensus/
 * The Hotspot Podcast - https://thehotspot.co/
 
-## Textbook
+## WEB3 101 (Hardcover)
 * Stablecoins - https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798
 * Tari University - https://tlu.tarilabs.com/
 * Web 3 Guide - https://rabbithole.gg/
