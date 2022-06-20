@@ -6,3 +6,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 Silicon Valley
 
 What is Urbit? - https://youtu.be/M04AKTCDavc
+
+Urbit Podcast Series - https://youtube.com/playlist?list=PLo7qEJPyC_VPrUwdqneF8nkvM0v5mYFK7
+
+The Future of Cities - https://youtu.be/xOOWk5yCMMs
