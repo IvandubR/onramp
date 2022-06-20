@@ -10,6 +10,7 @@ Silicon Valley
 * The Future of Cities - https://youtu.be/xOOWk5yCMMs
 * Reading List - https://medium.com/forbole/blockchain-101-reading-watching-listening-list-a7ee9395fba6
 * Concensus Wiki - https://tokens-economy.gitbook.io/consensus/
+* The Hotspot Podcast - 
 
 ## What is/are ......
 * Stablecoins - https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798
