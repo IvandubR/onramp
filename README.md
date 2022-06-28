@@ -19,6 +19,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Tokenomics - https://tokens-economy.com/
 * DAO's - https://1729.com/daos
 * DeFi Risk Assessment - https://tokenbrice.xyz/money-markets-risk/
+* Wallets (metamask) - https://juliawu.medium.com/the-anatomy-of-metamask-28b0d68721d2
 
 ## Programming 
 * FreeCodeCamp - https://freecodecamp.org/
