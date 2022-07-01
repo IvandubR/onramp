@@ -12,6 +12,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * The Hotspot Podcast - https://thehotspot.co/
 
 ## WEB3 101 (Hardcover)
+* The Basics (DiamondCrab) - https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db
 * Stablecoins - https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798
 * Tari University - https://tlu.tarilabs.com/
 * Web 3 Guide - https://rabbithole.gg/
@@ -35,6 +36,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Tech Deep Dives CMC - https://coinmarketcap.com/alexandria/categories/tech-deep-dives
 
 ## Practice 
+* DiamondCrab Tools - https://shuennnyyy.notion.site/Crypto-Tools-0b6b07fbf62d4ac7a05ead41cc99ce80
 * Join a DAO - https://snapshot.org/#/
 * Create a Coin - https://mintme.com/coin/
 * Track on-chain activity - https://https://dune.com/home
