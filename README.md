@@ -25,6 +25,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 ## Programming 
 * FreeCodeCamp - https://freecodecamp.org/
 * Step by Step Smart Contract Tutorial's - https://buildspace.so/
+* Free Certifications - https://github.com/cloudcommunity/Free-Certifications
 
 ## Open Source Your Life
 * GSUITE alternatives - https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html
