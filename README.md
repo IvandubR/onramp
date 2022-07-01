@@ -22,10 +22,11 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * DeFi Risk Assessment - https://tokenbrice.xyz/money-markets-risk/
 * Wallets (metamask) - https://juliawu.medium.com/the-anatomy-of-metamask-28b0d68721d2
 
-## Programming 
+## Programming and New Skills
 * FreeCodeCamp - https://freecodecamp.org/
 * Step by Step Smart Contract Tutorial's - https://buildspace.so/
 * Free Certifications - https://github.com/cloudcommunity/Free-Certifications
+* More Certifications - https://www.classcentral.com/report/free-certificates/
 
 ## Open Source Your Life
 * GSUITE alternatives - https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html
