@@ -3,8 +3,8 @@ pragma solidity ^0.4.24;
 // ----------------------------------------------------------------------------
 // Sample token contract
 //
-// Symbol        : {{NCK}}
-// Name          : {{NickCoin}}
+// Symbol        : {{TICKER}}
+// Name          : {{COIN_NAME}}
 // Total supply  : {{1000}}
 // Decimals      : {{2}}
 // Owner Account : {{0x8E5F81b50a7505bb896185bf23d512F1D89b2D7B}}
