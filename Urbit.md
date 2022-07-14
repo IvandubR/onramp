@@ -5,3 +5,5 @@
 * Point DAO - https://pointdao.notion.site/pointdao/Point-DAO-bc8fc478b67a49ac92358a2a40d77d35
 * Groups - ~rondev/group-discovery
 * Crypto Group - ~sonwet/cryptocurrency-forum
+* ~tirrel/the-marketplace
+* ~pindet-timmut/urbitcoin-cash
