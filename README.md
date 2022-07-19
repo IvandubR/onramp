@@ -12,6 +12,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * The Hotspot Podcast - https://thehotspot.co/
 
 ## WEB3 101 (Hardcover)
+* Tokenomics - https://youtu.be/w0HX5Y-yIJY
 * The Basics (DiamondCrab) - https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db
 * Stablecoins - https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798
 * Tari University - https://tlu.tarilabs.com/
