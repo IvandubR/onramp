@@ -11,7 +11,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Concensus Wiki - https://tokens-economy.gitbook.io/consensus/
 * The Hotspot Podcast - https://thehotspot.co/
 
-## WEB3 101 (Hardcover)
+## Chapter 1
 * Tokenomics - https://youtu.be/w0HX5Y-yIJY
 * The Basics (DiamondCrab) - https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db
 * Stablecoins - https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798
@@ -22,6 +22,9 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * DAO's - https://1729.com/daos
 * DeFi Risk Assessment - https://tokenbrice.xyz/money-markets-risk/
 * Wallets (metamask) - https://juliawu.medium.com/the-anatomy-of-metamask-28b0d68721d2
+
+## Chapter 2
+* Investment Research - https://openbb.co/
 
 ## Programming and New Skills
 * FreeCodeCamp - https://freecodecamp.org/
