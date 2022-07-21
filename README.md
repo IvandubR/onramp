@@ -26,6 +26,9 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 ## Chapter 2
 * Investment Research - https://openbb.co/
 
+## Fun Tools 
+* AI Generated Art - https://www.craiyon.com/
+
 ## Programming and New Skills
 * FreeCodeCamp - https://freecodecamp.org/
 * Step by Step Smart Contract Tutorial's - https://buildspace.so/
