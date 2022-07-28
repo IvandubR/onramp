@@ -25,6 +25,13 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 
 ## Chapter 2
 * Investment Research - https://openbb.co/
+* TA Lessons - https://t.co/KBW57kT5T0
+
+## The Meta Lite Memorial Library
+* CuratingWeb3 - https://curatingweb3.notion.site/curatingweb3/CuratingWeb3-a9b289930e2c48f0aba29b0f77746686
+* Cobie - https://cobie.substack.com
+* Gaby's Web3 Reading List - https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524
+* NoSleep Reads - https://nosleepjon.notion.site/nosleepjon/NoSleep-Reads-3aa6f6da99a54b3097802bd1bf93cd5b
 
 ## Fun Tools 
 * AI Generated Art - https://www.craiyon.com/
