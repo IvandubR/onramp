@@ -49,6 +49,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * https://twitter.com/BrianRoemmele/status/904368217925181440?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
 * https://twitter.com/leanthebean/status/1521961964624175105?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
 * https://twitter.com/austinvirts/status/1551990111448883200?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+* https://twitter.com/mrexits/status/1540776474361204740?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
 
 ## Programming and New Skills
 * FreeCodeCamp - https://freecodecamp.org/
