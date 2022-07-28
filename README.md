@@ -37,6 +37,19 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 ## Fun Tools 
 * AI Generated Art - https://www.craiyon.com/
 
+## Important Tweets
+* https://twitter.com/SolBrah/status/1522580127338713089?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+* https://twitter.com/RichhomieconE/status/1522732662129049601?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+* https://twitter.com/officialmcafee/status/1316801215083225096?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+* https://twitter.com/nansen_intern/status/1527638546638458880?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+* https://twitter.com/AriSokolov/status/1537454383746600963?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+* https://twitter.com/matthuang/status/1540726260971606016?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+* https://twitter.com/Rothmus/status/1542555973419765760?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+* https://twitter.com/level39/status/1548550264218583040?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+* https://twitter.com/BrianRoemmele/status/904368217925181440?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+* https://twitter.com/leanthebean/status/1521961964624175105?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+* https://twitter.com/austinvirts/status/1551990111448883200?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
+
 ## Programming and New Skills
 * FreeCodeCamp - https://freecodecamp.org/
 * Step by Step Smart Contract Tutorial's - https://buildspace.so/
