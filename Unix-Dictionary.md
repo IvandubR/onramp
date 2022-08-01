@@ -48,4 +48,4 @@ base command = ./helium-wallet
 import wallet = ./helium-wallet create basic --seed mobile (make sure verify:true)
 ```
 ## BASH COMMANDS 
-cheatsheet = https://devhints.io/bash
+[Cheatsheet](https://devhints.io/bash)
