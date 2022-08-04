@@ -27,6 +27,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Investment Research - https://openbb.co/
 * TA Lessons - https://t.co/KBW57kT5T0
 * Identity - https://mirror.xyz/dommy.eth/YsZmPZUxs4LsS-sS0APg25LJiFxOBnCibj2gzXFX98c
+* DeWi Network Design - https://funb2lnhmy2qmtsty6d36ksbo7msx2bmz3hjhd3xke6jtyfy.arweave.net/LRod_LadmNQZOU8eHvy-pBd9kr6Cz-OzpOPd1E8meC4
 
 ## The Meta Lite Memorial Library
 * CuratingWeb3 - https://curatingweb3.notion.site/curatingweb3/CuratingWeb3-a9b289930e2c48f0aba29b0f77746686
@@ -35,6 +36,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Gaby's Blog - https://gaby.mirror.xyz/
 * NoSleep Reads - https://nosleepjon.notion.site/nosleepjon/NoSleep-Reads-3aa6f6da99a54b3097802bd1bf93cd5b
 * Zach Frey - https://zachfrey.substack.com
+* Decentral Park - https://decentralparkcapital.substack.com/
 
 ## Fun Tools 
 * AI Generated Art - https://www.craiyon.com/
