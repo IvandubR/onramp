@@ -37,9 +37,16 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * NoSleep Reads - https://nosleepjon.notion.site/nosleepjon/NoSleep-Reads-3aa6f6da99a54b3097802bd1bf93cd5b
 * Zach Frey - https://zachfrey.substack.com
 * Decentral Park - https://decentralparkcapital.substack.com/
+* The Network State - https://thenetworkstate.com/
 
-## Fun Tools 
+## Tools and Toys
 * AI Generated Art - https://www.craiyon.com/
+* 90's TV Sim - https://my90stv.com/
+* Media Converter - https://tinywow.com/
+* PS Alternative - https://www.photopea.com/
+* Open Source Alternatives - https://www.opensourcealternative.to/
+* WindowSwap - https://www.window-swap.com/
+* Drive and Listen - https://driveandlisten.herokuapp.com/
 
 ## Important Tweets
 * https://twitter.com/SolBrah/status/1522580127338713089?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
