@@ -38,6 +38,9 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Zach Frey - https://zachfrey.substack.com
 * Decentral Park - https://decentralparkcapital.substack.com/
 * The Network State - https://thenetworkstate.com/
+* Anastasia - https://ana.mirror.xyz/
+* TPS Report - https://harambe.substack.com/
+
 
 ## Tools and Toys
 * AI Generated Art - https://www.craiyon.com/
