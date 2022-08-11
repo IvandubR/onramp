@@ -51,6 +51,14 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * WindowSwap - https://www.window-swap.com/
 * Drive and Listen - https://driveandlisten.herokuapp.com/
 
+## Noteworthy Concepts
+* Afropolitan - https://afropolitan.mirror.xyz/qkBv4y7MidTpDZJVEIEBC4EZi70v30IrCXLCZ-F6eMs
+* Rubber Hose - https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
+* Building Culture - https://www.buildingculture.com/
+* No Cost Urbits - https://imperceptible.computer/
+* Montanoso - https://montanoso.xyz/
+* Trellis Protocol - https://mirror.xyz/0xF8eBDe6cF19E928e1fFC41783365d868A8DD7088
+
 ## Important Tweets
 * https://twitter.com/SolBrah/status/1522580127338713089?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
 * https://twitter.com/RichhomieconE/status/1522732662129049601?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
