@@ -93,3 +93,9 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Join a DAO - https://snapshot.org/#/
 * Create a Coin - https://mintme.com/coin/
 * Track on-chain activity - https://https://dune.com/home
+
+## Philosophy
+* WrathOfGnon - https://wrathofgnon.substack.com/archive?sort=new
+
+## Off Topic 
+* Seuss Art - https://www.drseussart.com/secretandarchive
