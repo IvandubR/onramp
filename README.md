@@ -41,7 +41,6 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Anastasia - https://ana.mirror.xyz/
 * TPS Report - https://harambe.substack.com/
 
-
 ## Tools and Toys
 * AI Generated Art - https://www.craiyon.com/
 * 90's TV Sim - https://my90stv.com/
@@ -50,6 +49,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Open Source Alternatives - https://www.opensourcealternative.to/
 * WindowSwap - https://www.window-swap.com/
 * Drive and Listen - https://driveandlisten.herokuapp.com/
+* ASCII Text  - https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
 ## Noteworthy Concepts
 * Afropolitan - https://afropolitan.mirror.xyz/qkBv4y7MidTpDZJVEIEBC4EZi70v30IrCXLCZ-F6eMs
