@@ -12,8 +12,7 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * The Hotspot Podcast - https://thehotspot.co/
 
 ## Chapter 1
-* The Basics (DiamondCrab) - https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db
-* Tari University - https://tlu.tarilabs.com/
+*  add The Basics (DiamondCrab) - https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db
 
 ## Chapter 2
 * Investment Research - https://openbb.co/
