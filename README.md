@@ -14,7 +14,6 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 ## Chapter 1
 * The Basics (DiamondCrab) - https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db
 * Tari University - https://tlu.tarilabs.com/
-* Web 3 Guide - https://rabbithole.gg/
 
 ## Chapter 2
 * Investment Research - https://openbb.co/
@@ -24,6 +23,13 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Stablecoins - https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798
 * DeFi Risk Assessment - https://tokenbrice.xyz/money-markets-risk/
 * Tokenomics - https://tokens-economy.gitbook.io/consensus/
+https://tlu.tarilabs.com/cryptography
+https://tlu.tarilabs.com/consensus-mechanisms/
+https://tlu.tarilabs.com/scaling/
+https://tlu.tarilabs.com/protocols/
+https://tlu.tarilabs.com/network-analysis
+https://tlu.tarilabs.com/digital-assets/
+https://tlu.tarilabs.com/mining/
 
 ## The Meta Lite Memorial Library
 * CuratingWeb3 - https://curatingweb3.notion.site/curatingweb3/CuratingWeb3-a9b289930e2c48f0aba29b0f77746686
