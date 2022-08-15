@@ -12,22 +12,18 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * The Hotspot Podcast - https://thehotspot.co/
 
 ## Chapter 1
-* Tokenomics - https://youtu.be/w0HX5Y-yIJY
 * The Basics (DiamondCrab) - https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db
-* Stablecoins - https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798
 * Tari University - https://tlu.tarilabs.com/
 * Web 3 Guide - https://rabbithole.gg/
-* Crypto Security - https://medium.com/qi-capital/a-basic-crypto-security-guide-9f0552f69a2d
-* Tokenomics - https://tokens-economy.com/
-* DAO's - https://1729.com/daos
-* DeFi Risk Assessment - https://tokenbrice.xyz/money-markets-risk/
-* Wallets (metamask) - https://juliawu.medium.com/the-anatomy-of-metamask-28b0d68721d2
 
 ## Chapter 2
 * Investment Research - https://openbb.co/
 * TA Lessons - https://t.co/KBW57kT5T0
 * Identity - https://mirror.xyz/dommy.eth/YsZmPZUxs4LsS-sS0APg25LJiFxOBnCibj2gzXFX98c
 * DeWi Network Design - https://funb2lnhmy2qmtsty6d36ksbo7msx2bmz3hjhd3xke6jtyfy.arweave.net/LRod_LadmNQZOU8eHvy-pBd9kr6Cz-OzpOPd1E8meC4
+* Stablecoins - https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798
+* DeFi Risk Assessment - https://tokenbrice.xyz/money-markets-risk/
+* Tokenomics - https://tokens-economy.gitbook.io/consensus/
 
 ## The Meta Lite Memorial Library
 * CuratingWeb3 - https://curatingweb3.notion.site/curatingweb3/CuratingWeb3-a9b289930e2c48f0aba29b0f77746686
