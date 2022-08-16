@@ -9,16 +9,12 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * The Future of Cities - https://youtu.be/xOOWk5yCMMs
 * Reading List - https://medium.com/forbole/blockchain-101-reading-watching-listening-list-a7ee9395fba6
 * Concensus Wiki - https://tokens-economy.gitbook.io/consensus/
-* The Hotspot Podcast - https://thehotspot.co/
 
 ## Chapter 1
 *  add The Basics (DiamondCrab) - https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db
 
 ## Chapter 2
-* Investment Research - https://openbb.co/
-* TA Lessons - https://t.co/KBW57kT5T0
 * Identity - https://mirror.xyz/dommy.eth/YsZmPZUxs4LsS-sS0APg25LJiFxOBnCibj2gzXFX98c
-* DeWi Network Design - https://funb2lnhmy2qmtsty6d36ksbo7msx2bmz3hjhd3xke6jtyfy.arweave.net/LRod_LadmNQZOU8eHvy-pBd9kr6Cz-OzpOPd1E8meC4
 * Stablecoins - https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798
 * DeFi Risk Assessment - https://tokenbrice.xyz/money-markets-risk/
 * Tokenomics - https://tokens-economy.gitbook.io/consensus/
@@ -42,15 +38,7 @@ https://tlu.tarilabs.com/mining/
 * Anastasia - https://ana.mirror.xyz/
 * TPS Report - https://harambe.substack.com/
 
-## Tools and Toys
-* AI Generated Art - https://www.craiyon.com/
-* 90's TV Sim - https://my90stv.com/
-* Media Converter - https://tinywow.com/
-* PS Alternative - https://www.photopea.com/
-* Open Source Alternatives - https://www.opensourcealternative.to/
-* WindowSwap - https://www.window-swap.com/
-* Drive and Listen - https://driveandlisten.herokuapp.com/
-* ASCII Text  - https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+
 
 ## Noteworthy Concepts
 * Afropolitan - https://afropolitan.mirror.xyz/qkBv4y7MidTpDZJVEIEBC4EZi70v30IrCXLCZ-F6eMs
@@ -74,15 +62,8 @@ https://tlu.tarilabs.com/mining/
 * https://twitter.com/austinvirts/status/1551990111448883200?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
 * https://twitter.com/mrexits/status/1540776474361204740?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
 
-## Programming and New Skills
-* FreeCodeCamp - https://freecodecamp.org/
-* Step by Step Smart Contract Tutorial's - https://buildspace.so/
-* Free Certifications - https://github.com/cloudcommunity/Free-Certifications
-* More Certifications - https://www.classcentral.com/report/free-certificates/
 
-## Open Source Your Life
-* GSUITE alternatives - https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html
-* Clone Hero Archive - https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0
+* Step by Step Smart Contract Tutorial's - https://buildspace.so/
 
 ## Research
 * Alpha Archives - https://thealpharchives.com/
@@ -97,6 +78,3 @@ https://tlu.tarilabs.com/mining/
 
 ## Philosophy
 * WrathOfGnon - https://wrathofgnon.substack.com/archive?sort=new
-
-## Off Topic 
-* Seuss Art - https://www.drseussart.com/secretandarchive
