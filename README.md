@@ -2,11 +2,7 @@
 My web3 onramp comprised of the resources, media, and people that shaped my education. Heavy focus on the projects I believe in (Helium, Urbit, Privacy, DeWi, etc.)
 
 * [Reading List](https://medium.com/forbole/blockchain-101-reading-watching-listening-list-a7ee9395fba6)
-
-## Chapter 1
 *  add The Basics (DiamondCrab) - https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db
-
-## Chapter 2
 * Identity - https://mirror.xyz/dommy.eth/YsZmPZUxs4LsS-sS0APg25LJiFxOBnCibj2gzXFX98c
 * Stablecoins - https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798
 https://tlu.tarilabs.com/cryptography
@@ -28,13 +24,6 @@ https://tlu.tarilabs.com/mining/
 * The Network State - https://thenetworkstate.com/
 * Anastasia - https://ana.mirror.xyz/
 * TPS Report - https://harambe.substack.com/
-
-
-
-## Research
-* Alpha Archives - https://thealpharchives.com/
-* Delphi Research- https://members.delphidigital.io/
-* Tech Deep Dives CMC - https://coinmarketcap.com/alexandria/categories/tech-deep-dives
 
 ## Practice 
 * DiamondCrab Tools - https://shuennnyyy.notion.site/Crypto-Tools-0b6b07fbf62d4ac7a05ead41cc99ce80
