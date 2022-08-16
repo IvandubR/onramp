@@ -1,18 +1,6 @@
 # meta-lite's onramp
 My web3 onramp comprised of the resources, media, and people that shaped my education. Heavy focus on the projects I believe in (Helium, Urbit, Privacy, DeWi, etc.)
 
-* [Reading List](https://medium.com/forbole/blockchain-101-reading-watching-listening-list-a7ee9395fba6)
-*  add The Basics (DiamondCrab) - https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db
-* Identity - https://mirror.xyz/dommy.eth/YsZmPZUxs4LsS-sS0APg25LJiFxOBnCibj2gzXFX98c
-* Stablecoins - https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798
-https://tlu.tarilabs.com/cryptography
-https://tlu.tarilabs.com/consensus-mechanisms/
-https://tlu.tarilabs.com/scaling/
-https://tlu.tarilabs.com/protocols/
-https://tlu.tarilabs.com/network-analysis
-https://tlu.tarilabs.com/digital-assets/
-https://tlu.tarilabs.com/mining/
-
 ## The Meta Lite Memorial Library
 * CuratingWeb3 - https://curatingweb3.notion.site/curatingweb3/CuratingWeb3-a9b289930e2c48f0aba29b0f77746686
 * Cobie - https://cobie.substack.com
@@ -25,8 +13,14 @@ https://tlu.tarilabs.com/mining/
 * Anastasia - https://ana.mirror.xyz/
 * TPS Report - https://harambe.substack.com/
 
-## Practice 
 * DiamondCrab Tools - https://shuennnyyy.notion.site/Crypto-Tools-0b6b07fbf62d4ac7a05ead41cc99ce80
-* Join a DAO - https://snapshot.org/#/
-* Create a Coin - https://mintme.com/coin/
-* Track on-chain activity - https://dune.com/home
+* [The Basics](https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db)
+* [Tari University](https://tlu.tarilabs.com/)
+* [Reading List](https://medium.com/forbole/blockchain-101-reading-watching-listening-list-a7ee9395fba6)
+https://tlu.tarilabs.com/cryptography
+https://tlu.tarilabs.com/consensus-mechanisms/
+https://tlu.tarilabs.com/scaling/
+https://tlu.tarilabs.com/protocols/
+https://tlu.tarilabs.com/network-analysis
+https://tlu.tarilabs.com/digital-assets/
+https://tlu.tarilabs.com/mining/
