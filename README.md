@@ -30,6 +30,3 @@ https://tlu.tarilabs.com/mining/
 * Join a DAO - https://snapshot.org/#/
 * Create a Coin - https://mintme.com/coin/
 * Track on-chain activity - https://https://dune.com/home
-
-## Philosophy
-* WrathOfGnon - https://wrathofgnon.substack.com/archive?sort=new
