@@ -24,3 +24,4 @@ https://tlu.tarilabs.com/protocols/
 https://tlu.tarilabs.com/network-analysis
 https://tlu.tarilabs.com/digital-assets/
 https://tlu.tarilabs.com/mining/
+https://www.gokustats.xyz/dashboard/solana
