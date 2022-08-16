@@ -29,4 +29,4 @@ https://tlu.tarilabs.com/mining/
 * DiamondCrab Tools - https://shuennnyyy.notion.site/Crypto-Tools-0b6b07fbf62d4ac7a05ead41cc99ce80
 * Join a DAO - https://snapshot.org/#/
 * Create a Coin - https://mintme.com/coin/
-* Track on-chain activity - https://https://dune.com/home
+* Track on-chain activity - https://dune.com/home
