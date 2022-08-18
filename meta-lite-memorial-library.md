@@ -10,3 +10,4 @@
 * Decentral Park - https://decentralparkcapital.substack.com/
 * Anastasia - https://ana.mirror.xyz/
 * TPS Report - https://harambe.substack.com/
+* 
