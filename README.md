@@ -1,17 +1,7 @@
 # meta-lite's onramp
 My web3 onramp comprised of the resources, media, and people that shaped my education. Heavy focus on the projects I believe in (Helium, Urbit, Privacy, DeWi, etc.)
 
-## The Meta Lite Memorial Library
-* CuratingWeb3 - https://curatingweb3.notion.site/curatingweb3/CuratingWeb3-a9b289930e2c48f0aba29b0f77746686
-* Cobie - https://cobie.substack.com
-* Gaby's Web3 Reading List - https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524
-* Gaby's Blog - https://gaby.mirror.xyz/
-* NoSleep Reads - https://nosleepjon.notion.site/nosleepjon/NoSleep-Reads-3aa6f6da99a54b3097802bd1bf93cd5b
-* Zach Frey - https://zachfrey.substack.com
-* Decentral Park - https://decentralparkcapital.substack.com/
-* The Network State - https://thenetworkstate.com/
-* Anastasia - https://ana.mirror.xyz/
-* TPS Report - https://harambe.substack.com/
+
 
 DiamondCrab Tools - https://shuennnyyy.notion.site/Crypto-Tools-0b6b07fbf62d4ac7a05ead41cc99ce80
 [The Basics](https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db)
