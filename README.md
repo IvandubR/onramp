@@ -1,9 +1,6 @@
 # meta-lite's onramp
 My web3 onramp comprised of the resources, media, and people that shaped my education. Heavy focus on the projects I believe in (Helium, Urbit, Privacy, DeWi, etc.)
 
-
-
-DiamondCrab Tools - https://shuennnyyy.notion.site/Crypto-Tools-0b6b07fbf62d4ac7a05ead41cc99ce80
 [The Basics](https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db)
 [Tari University](https://tlu.tarilabs.com/)
 [Reading List](https://medium.com/forbole/blockchain-101-reading-watching-listening-list-a7ee9395fba6)
