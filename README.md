@@ -13,10 +13,10 @@ My web3 onramp comprised of the resources, media, and people that shaped my educ
 * Anastasia - https://ana.mirror.xyz/
 * TPS Report - https://harambe.substack.com/
 
-* DiamondCrab Tools - https://shuennnyyy.notion.site/Crypto-Tools-0b6b07fbf62d4ac7a05ead41cc99ce80
-* [The Basics](https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db)
-* [Tari University](https://tlu.tarilabs.com/)
-* [Reading List](https://medium.com/forbole/blockchain-101-reading-watching-listening-list-a7ee9395fba6)
+DiamondCrab Tools - https://shuennnyyy.notion.site/Crypto-Tools-0b6b07fbf62d4ac7a05ead41cc99ce80
+[The Basics](https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db)
+[Tari University](https://tlu.tarilabs.com/)
+[Reading List](https://medium.com/forbole/blockchain-101-reading-watching-listening-list-a7ee9395fba6)
 https://tlu.tarilabs.com/cryptography
 https://tlu.tarilabs.com/consensus-mechanisms/
 https://tlu.tarilabs.com/scaling/
