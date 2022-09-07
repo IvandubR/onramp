@@ -7,3 +7,4 @@
 * https://shuennnyyy.notion.site/General-d4ebef8364424fe1b884a7208416107c
 * https://shuennnyyy.notion.site/Lessons-a72a13f238b843868230d6782cf774c8
 * https://sovs.notion.site/sovs/Sov-s-Compendium-41f097d28dae4d09801f10cde1b2d03b
+* https://discord.com/channels/787027688548073522/852731242398875698/1017125726870323321
